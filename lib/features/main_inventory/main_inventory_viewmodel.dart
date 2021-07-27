@@ -28,6 +28,13 @@ class MainInventoryViewModelItemModel extends Model {
 
   MainInventoryViewModelItemModel(this.id, this.name, this.measure, this.upcNumber, this.subItems, this.color);
 
+  /*String getLowestExpirationDate() {
+    /// yyyy-mm-dd
+    /// 1899-10-01 < 2022-10-01
+    return '';
+  }
+
+   */
 
 }
 

@@ -152,6 +152,9 @@ class MainInventoryBloc
     }
 
     viewModel.items.sort( (first,second) {
+    //  String firstExpDate = first.getLowestExpirationDate();
+    //  String secondExpDate = second.getLowestExpirationDate();
+    //  if (firstExpDate != secondExpDate) return firstExpDate.compareTo(secondExpDate);
       return first.name.compareTo(second.name);
     });
 

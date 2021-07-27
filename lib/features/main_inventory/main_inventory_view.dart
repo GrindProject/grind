@@ -53,8 +53,9 @@ class MainInventoryView extends View<MainInventoryViewModel, MainInventoryViewEv
 
               controller: this.viewModel.searchController,
               decoration: InputDecoration(
-                fillColor: Colors.white, filled: true,
-                border: OutlineInputBorder(borderSide: new BorderSide(width: 16.0)),
+                fillColor: Colors.white,
+                filled: true,
+                border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
                 labelText: 'Search',
                 suffixIcon: Icon(Icons.search),
               ),

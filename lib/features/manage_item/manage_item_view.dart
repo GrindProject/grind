@@ -90,6 +90,8 @@ class ManageItemView extends View<ManageItemViewModel, ManageItemViewEvents> {
         Padding(
           padding: EdgeInsets.all(10),
           child: TextField(
+            readOnly: true,
+            showCursor: true,
             controller: this.viewModel.expirationDateController,
             onTap: () {
               _pickDate(context);
