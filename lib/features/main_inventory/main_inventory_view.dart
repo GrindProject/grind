@@ -40,7 +40,10 @@ class MainInventoryView extends View<MainInventoryViewModel, MainInventoryViewEv
         actions: [
           IconButton(onPressed: () {
             this.viewEvents.openCameraToScan(context, this.viewModel);
-          }, icon: Icon(MdiIcons.barcodeScan))
+          }, icon: Icon(MdiIcons.barcodeScan),),
+          IconButton(onPressed: () {
+            this.viewEvents.refreshBlueTooth(context, this.viewModel);
+          }, icon: Icon(MdiIcons.bluetoothConnect),),
         ],
 
       ),
@@ -49,19 +52,34 @@ class MainInventoryView extends View<MainInventoryViewModel, MainInventoryViewEv
 
           Padding(
             padding: EdgeInsets.all(10),
-            child: TextField(
-
-              controller: this.viewModel.searchController,
-              decoration: InputDecoration(
-                fillColor: Colors.white,
-                filled: true,
-                border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
-                labelText: 'Search',
-                suffixIcon: Icon(Icons.search),
-              ),
-              onChanged: (value) {
-                this.viewEvents.searchItem(context, this.viewModel);
+            child: RawKeyboardListener(
+              focusNode: FocusNode(),
+              onKey: (event) {
+                print(event.data.logicalKey.keyId);
+                if (event.runtimeType == RawKeyDownEvent && (event.logicalKey.keyId == LogicalKeyboardKey.enter.keyId)) {
+                  this.viewEvents.verifyItem(context, this.viewModel);
+                }
               },
+              child: TextField(
+                textInputAction: TextInputAction.go,
+                controller: this.viewModel.searchController,
+                decoration: InputDecoration(
+                  fillColor: Colors.white,
+                  filled: true,
+                  border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
+                  labelText: 'Search',
+                  suffixIcon: Icon(Icons.search),
+                ),
+                onChanged: (value) {
+                  this.viewEvents.searchItem(context, this.viewModel);
+                },
+                onSubmitted: (value) {
+                  this.viewEvents.verifyItem(context, this.viewModel);
+                },
+                onEditingComplete: () {
+                  this.viewEvents.verifyItem(context, this.viewModel);
+                },
+              ),
             ),
           ),
 

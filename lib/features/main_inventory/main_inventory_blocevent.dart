@@ -33,6 +33,15 @@ class MainInventoryBlocEventOpenCameraToScan extends MainInventoryBlocEvent {
   MainInventoryBlocEventOpenCameraToScan(MainInventoryViewModel viewModel) : super(viewModel);
 }
 
+class MainInventoryBlocEventRefreshBlueTooth extends MainInventoryBlocEvent {
+  MainInventoryBlocEventRefreshBlueTooth(MainInventoryViewModel viewModel) : super(viewModel);
+}
+
+class MainInventoryBlocEventVerifyItem extends MainInventoryBlocEvent {
+  MainInventoryBlocEventVerifyItem(MainInventoryViewModel viewModel) : super(viewModel);
+}
+
+
 
 
 

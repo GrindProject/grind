@@ -9,8 +9,10 @@ MERGED from [:firebase_analytics] C:\Users\sonut\OneDrive\Desktop\OneDrive\Docum
 MERGED from [:firebase_auth] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:cloud_firestore] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:flutter_ble_lib] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_ble_lib\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_barcode_scanner] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-21:12
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:google_sign_in] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:flutter_facebook_auth] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_facebook_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [com.facebook.android:facebook-login:11.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\d805763e091526306e15c9ce0964dac2\jetified-facebook-login-11.0.0\AndroidManifest.xml:21:1-31:12
@@ -76,6 +78,8 @@ MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\sonut\.gradle\
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\ea66f04c1b31a676098eac293093753c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\1752a0f800e803954ad33a7bf1f28783\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\59c182bc8e922d4efdacd495b33071d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:2:1-16:12
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\884ac07bda28f469cfe35c32daf0f0d7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8f6ea0f9889cd413177c028b1646d12f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8ae4ba4e5467921d1a12ac653a8a2b60\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
@@ -86,9 +90,10 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sonut\.gradle\ca
 MERGED from [androidx.print:print:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\49cadaaff1a5cc618a6642f8b3463c6e\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\03a1917b5cfb6981595940e15ebafedd\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0ac90058dd10b19cab83ffba354431e5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\a2bb11f924883a11f37ede3ec18a5ce9\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8415a591149391dfac21fdb0f98b8adc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\3f86133c9374c79faed7d7281c38b478\jetified-proguard-rules-1.3.3.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\b0c7cb4faf85484b84300651fbd59c69\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
 INJECTED from C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -317,10 +322,14 @@ MERGED from [:cloud_firestore] C:\Users\sonut\OneDrive\Desktop\OneDrive\Document
 MERGED from [:cloud_firestore] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_core] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ble_lib] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_ble_lib\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_ble_lib] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_ble_lib\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_barcode_scanner] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_barcode_scanner] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_facebook_auth] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_facebook_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
@@ -451,6 +460,10 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sonut\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\1752a0f800e803954ad33a7bf1f28783\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\59c182bc8e922d4efdacd495b33071d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\59c182bc8e922d4efdacd495b33071d4\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\884ac07bda28f469cfe35c32daf0f0d7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\884ac07bda28f469cfe35c32daf0f0d7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8f6ea0f9889cd413177c028b1646d12f\cardview-1.0.0\AndroidManifest.xml:20:5-44
@@ -471,12 +484,14 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sonut\.gradle\ca
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\03a1917b5cfb6981595940e15ebafedd\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0ac90058dd10b19cab83ffba354431e5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0ac90058dd10b19cab83ffba354431e5\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\a2bb11f924883a11f37ede3ec18a5ce9\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\a2bb11f924883a11f37ede3ec18a5ce9\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8415a591149391dfac21fdb0f98b8adc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8415a591149391dfac21fdb0f98b8adc\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\6b72fac9d8d62afd8fae751c18698319\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\3f86133c9374c79faed7d7281c38b478\jetified-proguard-rules-1.3.3.0\AndroidManifest.xml:8:5-43
+MERGED from [com.artemzin.rxjava:proguard-rules:1.3.3.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\3f86133c9374c79faed7d7281c38b478\jetified-proguard-rules-1.3.3.0\AndroidManifest.xml:8:5-43
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\b0c7cb4faf85484b84300651fbd59c69\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\b0c7cb4faf85484b84300651fbd59c69\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
 INJECTED from C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\android\app\src\debug\AndroidManifest.xml
@@ -585,6 +600,26 @@ activity#com.amolg.flutterbarcodescanner.BarcodeCaptureActivity
 ADDED from [:flutter_barcode_scanner] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-91
 	android:name
 		ADDED from [:flutter_barcode_scanner] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_barcode_scanner\intermediates\library_manifest\debug\AndroidManifest.xml:18:19-88
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-68
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:11:5-68
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:11:5-68
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-74
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:12:5-74
+MERGED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:12:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:12:5-74
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:flutter_blue] C:\Users\sonut\OneDrive\Desktop\OneDrive\Documents\GrindRepo\grind\build\flutter_blue\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-76
 activity#com.facebook.CustomTabMainActivity
 ADDED from [com.facebook.android:facebook-common:11.0.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\2c00f990ddc6752bfde5be507e1a0549\jetified-facebook-common-11.0.0\AndroidManifest.xml:34:9-71
 	android:name
@@ -757,3 +792,13 @@ ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\sonut
 		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\908cf8f04dced4d15ed0d4fc7d19d87e\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\908cf8f04dced4d15ed0d4fc7d19d87e\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:14:5-88
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:14:5-88
+MERGED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:14:5-88
+	android:name
+		ADDED from [com.github.Polidea:MultiPlatformBleAdapter:0.1.8] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\8c8b60091213b8726111c6e5fab220ad\jetified-MultiPlatformBleAdapter-0.1.8\AndroidManifest.xml:14:29-85
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:15:5-86
+	android:name
+		ADDED from [com.polidea.rxandroidble:rxandroidble:1.7.1] C:\Users\sonut\.gradle\caches\transforms-2\files-2.1\0792dc9885ec0d329e75a4a0800c8f24\jetified-rxandroidble-1.7.1\AndroidManifest.xml:15:29-83

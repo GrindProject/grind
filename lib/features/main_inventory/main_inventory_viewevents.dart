@@ -50,8 +50,18 @@ class MainInventoryViewEvents extends ViewEvents<MainInventoryBloc> {
     this.bloc.pipeIn.send(blocEvent);
   }
 
+  void verifyItem(BuildContext context, MainInventoryViewModel viewModel) {
+    MainInventoryBlocEventVerifyItem blocEvent = MainInventoryBlocEventVerifyItem(viewModel);
+    this.bloc.pipeIn.send(blocEvent);
+  }
+
   void openCameraToScan(BuildContext context, MainInventoryViewModel viewModel) {
     MainInventoryBlocEventOpenCameraToScan blocEvent = MainInventoryBlocEventOpenCameraToScan(viewModel);
+    this.bloc.pipeIn.send(blocEvent);
+  }
+
+  void refreshBlueTooth(BuildContext context, MainInventoryViewModel viewModel) {
+    MainInventoryBlocEventRefreshBlueTooth blocEvent = MainInventoryBlocEventRefreshBlueTooth(viewModel);
     this.bloc.pipeIn.send(blocEvent);
   }
 

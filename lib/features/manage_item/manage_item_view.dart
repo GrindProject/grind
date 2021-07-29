@@ -48,7 +48,7 @@ class ManageItemView extends View<ManageItemViewModel, ManageItemViewEvents> {
             controller: this.viewModel.upcNumberController,
             decoration: InputDecoration(
               fillColor: Colors.white, filled: true,
-              border: OutlineInputBorder(),
+              border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
               labelText: 'UPC Number',
               suffixIcon: IconButton(
                 icon: Icon(MdiIcons.searchWeb),
@@ -68,7 +68,7 @@ class ManageItemView extends View<ManageItemViewModel, ManageItemViewEvents> {
             controller: this.viewModel.nameController,
             decoration: InputDecoration(
               fillColor: Colors.white, filled: true,
-              border: OutlineInputBorder(),
+              border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
               labelText: 'Description',
             ),
           ),
@@ -81,7 +81,7 @@ class ManageItemView extends View<ManageItemViewModel, ManageItemViewEvents> {
             controller: this.viewModel.measureController,
             decoration: InputDecoration(
               fillColor: Colors.white, filled: true,
-              border: OutlineInputBorder(),
+              border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
               labelText: 'Measure',
             ),
           ),
@@ -98,7 +98,7 @@ class ManageItemView extends View<ManageItemViewModel, ManageItemViewEvents> {
             },
             decoration: InputDecoration(
               fillColor: Colors.white, filled: true,
-              border: OutlineInputBorder(),
+              border: UnderlineInputBorder(borderSide: new BorderSide(width: 16.0)),
               labelText: 'Expiration Date',
             ),
           ),
